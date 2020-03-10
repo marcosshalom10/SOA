@@ -13,3 +13,4 @@ La interfaz se basa en un botón, un combobox y un textbox. Cuando se carga la i
 combobox; al seleccionar una, automáticamente el nombre aparece en el textbox. Al pulsar el botón, aparece un mensaje con el
 balance de la cuenta seleccionada.
 
+![SOA](https://user-images.githubusercontent.com/61480451/76364970-cdee3b00-62eb-11ea-9973-89fcaf987500.PNG)
