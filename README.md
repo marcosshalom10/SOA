@@ -14,3 +14,5 @@ combobox; al seleccionar una, automáticamente el nombre aparece en el textbox. 
 balance de la cuenta seleccionada.
 
 ![SOA](https://user-images.githubusercontent.com/61480451/76364970-cdee3b00-62eb-11ea-9973-89fcaf987500.PNG)
+
+
